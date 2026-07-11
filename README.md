@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="assets/header-matrix.svg" width="100%" alt="trollwarlord598"/>
+<img src="assets/header-matrix.svg" width="100%" alt="Santana"/>
 </div>
 
 <br/>
