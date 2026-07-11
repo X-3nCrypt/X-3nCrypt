@@ -1,11 +1,11 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=220&section=header&text=trollwarlord598&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="assets/header-matrix.svg" width="100%" alt="trollwarlord598"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/trollwarlord598">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Pentester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Web+Developer;%3E+Game+Developer;%3E+Pentester" alt="Typing SVG" />
 </a>
 
 </div>
@@ -52,6 +52,6 @@
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="assets/footer-matrix.svg" width="100%" alt="footer"/>
 
 </div>
