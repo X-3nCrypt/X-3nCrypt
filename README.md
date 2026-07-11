@@ -1,11 +1,11 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Troll%20Warlord&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20digital%20realm&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=220&section=header&text=trollwarlord598&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/trollwarlord598">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Security+Enthusiast;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Pentester" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=TypeScript&color=505050&style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Python&color=505050&style=flat&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=PHP&color=505050&style=flat&logo=php&logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Luau&color=505050&style=flat&logo=lua&logoColor=00A2FF" alt="Luau"/>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML5&color=505050&style=flat&logo=html5&logoColor=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CSS3&color=505050&style=flat&logo=css3&logoColor=1572B6" alt="CSS3"/>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=React&color=505050&style=flat&logo=react&logoColor=61DAFB" alt="React"/>
@@ -51,8 +52,6 @@
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
