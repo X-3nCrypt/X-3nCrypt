@@ -41,8 +41,9 @@
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MySQL&color=505050&style=flat&logo=mysql&logoColor=4479A1" alt="MySQL"/>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MongoDB&color=505050&style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=VS%20Code&color=505050&style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Figma&color=505050&style=flat&logo=figma&logoColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Postman&color=505050&style=flat&logo=postman&logoColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Ubuntu&color=505050&style=flat&logo=ubuntu&logoColor=E95420" alt="Ubuntu"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Burp%20Suite&color=505050&style=flat&logo=burpsuite&logoColor=FF6633" alt="Burp Suite"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Wireshark&color=505050&style=flat&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
 </p>
 
 <br/>
