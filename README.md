@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/trollwarlord598">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Web+Developer;%3E+Game+Developer;%3E+Pentester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Pentester" alt="Typing SVG" />
 </a>
 
 </div>
