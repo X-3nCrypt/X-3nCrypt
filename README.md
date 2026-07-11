@@ -2,12 +2,6 @@
 <div align="center">
 
 <img src="assets/header-matrix.svg" width="100%" alt="trollwarlord598"/>
-
-<!-- Typing animation -->
-<a href="https://github.com/trollwarlord598">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Pentester" alt="Typing SVG" />
-</a>
-
 </div>
 
 <br/>
