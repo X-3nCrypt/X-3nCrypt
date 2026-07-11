@@ -18,31 +18,31 @@
 **Languages & Frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=JavaScript&color=505050&style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=TypeScript&color=505050&style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Python&color=505050&style=flat&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=PHP&color=505050&style=flat&logo=php&logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML5&color=505050&style=flat&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CSS3&color=505050&style=flat&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=React&color=505050&style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Next.js&color=505050&style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Node.js&color=505050&style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Express&color=505050&style=flat&logo=express&logoColor=white" alt="Express"/>
 </p>
 
 **Tools & Platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Git&color=505050&style=flat&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GitHub&color=505050&style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Docker&color=505050&style=flat&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Linux&color=505050&style=flat&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Bash&color=505050&style=flat&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MySQL&color=505050&style=flat&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MongoDB&color=505050&style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=VS%20Code&color=505050&style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Figma&color=505050&style=flat&logo=figma&logoColor=F24E1E" alt="Figma"/>
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Postman&color=505050&style=flat&logo=postman&logoColor=FF6C37" alt="Postman"/>
 </p>
 
 <br/>
