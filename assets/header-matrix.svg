@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="240" viewBox="0 0 1000 240" font-family="'Courier New', Courier, monospace">
+  <defs>
+  <text id="colA" y="0" font-size="15" fill="#00FF41"><tspan x="0" dy="0">ア</tspan><tspan x="0" dy="18">7</tspan><tspan x="0" dy="18">カ</tspan><tspan x="0" dy="18">3</tspan><tspan x="0" dy="18">サ</tspan><tspan x="0" dy="18">X</tspan><tspan x="0" dy="18">タ</tspan><tspan x="0" dy="18">0</tspan><tspan x="0" dy="18">ナ</tspan><tspan x="0" dy="18">9</tspan><tspan x="0" dy="18">ハ</tspan><tspan x="0" dy="18">Z</tspan><tspan x="0" dy="18">ア</tspan><tspan x="0" dy="18">7</tspan><tspan x="0" dy="18">カ</tspan><tspan x="0" dy="18">3</tspan><tspan x="0" dy="18">サ</tspan><tspan x="0" dy="18">X</tspan><tspan x="0" dy="18">タ</tspan><tspan x="0" dy="18">0</tspan><tspan x="0" dy="18">ナ</tspan><tspan x="0" dy="18">9</tspan><tspan x="0" dy="18">ハ</tspan><tspan x="0" dy="18">Z</tspan><tspan x="0" dy="18">ア</tspan><tspan x="0" dy="18">7</tspan><tspan x="0" dy="18">カ</tspan><tspan x="0" dy="18">3</tspan><tspan x="0" dy="18">サ</tspan><tspan x="0" dy="18">X</tspan><tspan x="0" dy="18">タ</tspan><tspan x="0" dy="18">0</tspan><tspan x="0" dy="18">ナ</tspan><tspan x="0" dy="18">9</tspan><tspan x="0" dy="18">ハ</tspan><tspan x="0" dy="18">Z</tspan></text>
+  <text id="colB" y="0" font-size="15" fill="#00FF41"><tspan x="0" dy="0">1</tspan><tspan x="0" dy="18">マ</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">ヤ</tspan><tspan x="0" dy="18">F</tspan><tspan x="0" dy="18">ラ</tspan><tspan x="0" dy="18">4</tspan><tspan x="0" dy="18">ワ</tspan><tspan x="0" dy="18">Q</tspan><tspan x="0" dy="18">5</tspan><tspan x="0" dy="18">ン</tspan><tspan x="0" dy="18">2</tspan><tspan x="0" dy="18">1</tspan><tspan x="0" dy="18">マ</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">ヤ</tspan><tspan x="0" dy="18">F</tspan><tspan x="0" dy="18">ラ</tspan><tspan x="0" dy="18">4</tspan><tspan x="0" dy="18">ワ</tspan><tspan x="0" dy="18">Q</tspan><tspan x="0" dy="18">5</tspan><tspan x="0" dy="18">ン</tspan><tspan x="0" dy="18">2</tspan><tspan x="0" dy="18">1</tspan><tspan x="0" dy="18">マ</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">ヤ</tspan><tspan x="0" dy="18">F</tspan><tspan x="0" dy="18">ラ</tspan><tspan x="0" dy="18">4</tspan><tspan x="0" dy="18">ワ</tspan><tspan x="0" dy="18">Q</tspan><tspan x="0" dy="18">5</tspan><tspan x="0" dy="18">ン</tspan><tspan x="0" dy="18">2</tspan></text>
+  <text id="colC" y="0" font-size="15" fill="#00FF41"><tspan x="0" dy="0">0</tspan><tspan x="0" dy="18">K</tspan><tspan x="0" dy="18">シ</tspan><tspan x="0" dy="18">6</tspan><tspan x="0" dy="18">ツ</tspan><tspan x="0" dy="18">1</tspan><tspan x="0" dy="18">ホ</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">レ</tspan><tspan x="0" dy="18">3</tspan><tspan x="0" dy="18">ソ</tspan><tspan x="0" dy="18">7</tspan><tspan x="0" dy="18">0</tspan><tspan x="0" dy="18">K</tspan><tspan x="0" dy="18">シ</tspan><tspan x="0" dy="18">6</tspan><tspan x="0" dy="18">ツ</tspan><tspan x="0" dy="18">1</tspan><tspan x="0" dy="18">ホ</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">レ</tspan><tspan x="0" dy="18">3</tspan><tspan x="0" dy="18">ソ</tspan><tspan x="0" dy="18">7</tspan><tspan x="0" dy="18">0</tspan><tspan x="0" dy="18">K</tspan><tspan x="0" dy="18">シ</tspan><tspan x="0" dy="18">6</tspan><tspan x="0" dy="18">ツ</tspan><tspan x="0" dy="18">1</tspan><tspan x="0" dy="18">ホ</tspan><tspan x="0" dy="18">8</tspan><tspan x="0" dy="18">レ</tspan><tspan x="0" dy="18">3</tspan><tspan x="0" dy="18">ソ</tspan><tspan x="0" dy="18">7</tspan></text>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="3.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="centerFade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0D1117" stop-opacity="0"/>
+    <stop offset="0.38" stop-color="#0D1117" stop-opacity="0.82"/>
+    <stop offset="0.62" stop-color="#0D1117" stop-opacity="0.82"/>
+    <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="screen"><rect x="1" y="28" width="998" height="211" rx="0"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="239" rx="9" fill="#0D1117" stroke="#30363D"/>
+  <rect x="0.5" y="0.5" width="999" height="28" rx="9" fill="#161B22"/>
+  <rect x="0.5" y="15" width="999" height="14" fill="#161B22"/>
+  <line x1="0.5" y1="28.5" x2="999.5" y2="28.5" stroke="#30363D"/>
+  <circle cx="22" cy="14.5" r="5.5" fill="#FF5F56"/>
+  <circle cx="42" cy="14.5" r="5.5" fill="#FFBD2E"/>
+  <circle cx="62" cy="14.5" r="5.5" fill="#27C93F"/>
+  <text x="500" y="19" text-anchor="middle" font-size="12" fill="#8B949E">trollwarlord598@github:~$</text>
+
+  <g clip-path="url(#screen)">
+    <g transform="translate(30,0)" opacity="0.62"><g><use href="#colA" xlink:href="#colA" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="7.7s" begin="-0.8s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(85,0)" opacity="0.3"><g><use href="#colB" xlink:href="#colB" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="5.8s" begin="-4.8s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(140,0)" opacity="0.41"><g><use href="#colC" xlink:href="#colC" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="7.7s" begin="-2.8s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(195,0)" opacity="0.71"><g><use href="#colA" xlink:href="#colA" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="7.7s" begin="-3.6s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(251,0)" opacity="0.65"><g><use href="#colB" xlink:href="#colB" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="5.0s" begin="-2.7s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(306,0)" opacity="0.54"><g><use href="#colC" xlink:href="#colC" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="7.4s" begin="-4.4s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(361,0)" opacity="0.48"><g><use href="#colA" xlink:href="#colA" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="8.2s" begin="-3.9s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(417,0)" opacity="0.57"><g><use href="#colB" xlink:href="#colB" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="7.4s" begin="-5.7s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(472,0)" opacity="0.68"><g><use href="#colC" xlink:href="#colC" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="8.4s" begin="-0.9s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(527,0)" opacity="0.71"><g><use href="#colA" xlink:href="#colA" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="7.9s" begin="-0.6s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(582,0)" opacity="0.71"><g><use href="#colB" xlink:href="#colB" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="6.2s" begin="-6.2s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(638,0)" opacity="0.32"><g><use href="#colC" xlink:href="#colC" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="4.4s" begin="-1.3s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(693,0)" opacity="0.28"><g><use href="#colA" xlink:href="#colA" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="6.7s" begin="-6.6s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(748,0)" opacity="0.69"><g><use href="#colB" xlink:href="#colB" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="5.4s" begin="-1.0s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(804,0)" opacity="0.56"><g><use href="#colC" xlink:href="#colC" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="4.9s" begin="-4.5s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(859,0)" opacity="0.66"><g><use href="#colA" xlink:href="#colA" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="6.8s" begin="-0.9s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(914,0)" opacity="0.35"><g><use href="#colB" xlink:href="#colB" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="7.2s" begin="-6.4s" repeatCount="indefinite"/></g></g>
+    <g transform="translate(970,0)" opacity="0.58"><g><use href="#colC" xlink:href="#colC" y="-216"/><animateTransform attributeName="transform" type="translate" values="0 0;0 216" dur="3.6s" begin="-1.1s" repeatCount="indefinite"/></g></g>
+    <rect x="1" y="28" width="998" height="211" fill="url(#centerFade)"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="500" y="152" text-anchor="middle" font-size="46" font-weight="bold" fill="#00FF41" letter-spacing="2">&gt; trollwarlord598<tspan dx="6">▊<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  </g>
+</svg>
