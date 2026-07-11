@@ -5,114 +5,45 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/trollwarlord598">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%90;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Security+Enthusiast;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=trollwarlord598&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Focus-Web%20%26%20Security-00F7FF?style=for-the-badge" alt="Focus"/>
-<img src="https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-
 </div>
-
-<br/>
-
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-## 🧑‍💻 About Me
-
-```typescript
-const trollwarlord598 = {
-    location: "Indonesia 🇮🇩",
-    role: "Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "PHP"],
-    currentlyLearning: ["Security Research", "Cloud Architecture"],
-    askMeAbout: ["web dev", "linux", "automation"],
-    funFact: "I debug with console.log and I'm not ashamed 😎",
-};
-```
 
 <br/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## ⚡ Tech Stack
-
-<div align="center">
+## Tech Stack
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,react,nextjs,nodejs,express&perline=10" />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+</p>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,mysql,mongodb,vscode,figma,postman&perline=10" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=trollwarlord598&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=trollwarlord598&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trollwarlord598&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trollwarlord598&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=trollwarlord598&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trollwarlord598/trollwarlord598/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trollwarlord598/trollwarlord598/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/trollwarlord598/trollwarlord598/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:trollwarlord598@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/trollwarlord598">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<!-- Ganti # dengan link kamu, atau hapus yang tidak dipakai -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 <br/>
 
